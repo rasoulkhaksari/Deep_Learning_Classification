@@ -13,3 +13,5 @@ Its kind of teach a machine to detect a thing in object. To teach which is cat? 
 - Build a basic vanilla CNN, and try to predict species as a binary classification problem
 - Make predictions with transfer learning using ResNet50 and imagenet weights
 - Compare the results on vanilla CNN and ResNet50 with sample data
+
+[<u>**Jupyter code**</u>](Cats_vs_Dogs.ipynb)
